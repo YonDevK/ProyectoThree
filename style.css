@@ -1,0 +1,12 @@
+/* Estilos CSS para el portafolio */
+
+/* Estilo general del body */
+body {
+    background-color: #000000; /* Fondo negro */
+    color: #F6F6F6; /* Texto blanco */
+}
+
+/* Estilo para el texto en negrita (strong) */
+strong {
+    color: #22D4FD; /* Color azul para resaltar texto importante */
+}
